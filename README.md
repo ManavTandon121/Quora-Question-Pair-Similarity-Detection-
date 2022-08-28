@@ -1,0 +1,2 @@
+# Quora-Question-Pair-Similarity-Detection-
+Description: Performed text analysis using Bag-of-words and TF-IDF NLP approaches on Quora question pair detection problem dataset available on Kaggle. Created new and more useful features by doing feature engineering on existing features. Trained XGBoost model on the processed data. Results: Train Log-Loss: 0.361186,                 Val Log-Loss: 0.363524
